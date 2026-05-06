@@ -2,6 +2,7 @@ Retail Sales Analysis Project
 This repository contains a comprehensive analysis of the Superstore Sales dataset, focusing on identifying sales trends, regional performance, and product profitability.
 
 Project Overview
+![Retail Dashboard](Retail-Profit-Loss-Analysis.jpg)
 The goal of this project was to analyze retail data to uncover actionable insights for business growth. By examining transaction history, I identified which regions and product categories were the most and least profitable.
 
 Data Source
